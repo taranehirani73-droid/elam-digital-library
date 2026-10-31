@@ -16,18 +16,19 @@ npm run dev
 
 ## خروجی‌ها
 
-- `dist/elam-library-1.0.0-light.apk`: خروجی سبک قابل نصب، با رابط React و پوستهٔ بومی WebView. امضا و محتوای بسته بررسی شده؛ آزمون روی گوشی انجام نشده است.
+- `dist/elam-library-1.0.0.apk`: خروجی استاندارد Capacitor، ساخته‌شده با موفقیت در GitHub Actions. امضا و SHA-256 تمام فایل‌های محتوای بسته بررسی شده‌اند؛ آزمون روی گوشی انجام نشده است.
+- `dist/elam-library-1.0.0-light.apk`: خروجی جایگزین سبک، با رابط React و پوستهٔ بومی WebView.
 - `android/`: پروژهٔ استاندارد Capacitor؛ `npm run android:sync` و سپس ساخت از Android Studio یا GitHub Actions.
 - `dist/elam-digital-library-source.zip`: بستهٔ سورس بدون وابستگی‌ها، کش و کلیدهای خصوصی.
 - `app/` و `build-apk.ps1`: پوسته و مسیر ساخت جایگزین خروجی سبک؛ این مسیر پوستهٔ Capacitor نیست.
 
-خروجی استاندارد Capacitor در محیط فعلی به محدودیت فضای دیسک و دریافت وابستگی‌ها برخورد کرده است. این موضوع به‌صورت صریح در گزارش آزمون‌ها ثبت شده است؛ خروجی سبک را نباید APK ساخته‌شده با Capacitor معرفی کرد.
+ساخت محلی Capacitor به محدودیت فضای دیسک برخورد کرد؛ ساخت استاندارد روی GitHub Actions با موفقیت انجام شد. خروجی سبک و استاندارد دو پوستهٔ متفاوت دارند. گزارش آزمون‌ها و پیوند اجرای موفق در docs/ACCEPTANCE.md ثبت شده است.
 
 ## انتشار محتوا بدون ساخت APK
 
-مخزن پیشنهادی حساب مالک: `taranehirani73-droid/elam-digital-library`. ایجاد یا انتشار واقعی این مخزن هنوز تأیید نشده است. پس از ایجاد مخزن عمومی، در Settings > Pages گزینهٔ GitHub Actions را انتخاب کنید. گردش `.github/workflows/content-pages.yml` فقط پس از اعتبارسنجی موفق، محتوا و ویرایشگر را منتشر می‌کند.
+مخزن عمومی پروژه: [taranehirani73-droid/elam-digital-library](https://github.com/taranehirani73-droid/elam-digital-library). سورس و محتوا در شاخهٔ main ثبت شده‌اند. در Settings > Pages گزینهٔ GitHub Actions را انتخاب کنید. گردش `.github/workflows/content-pages.yml` فقط پس از اعتبارسنجی موفق، محتوا و ویرایشگر را منتشر می‌کند.
 
-نشانی مورد انتظار پس از انتشار: `https://taranehirani73-droid.github.io/elam-digital-library/content/`. آن را در تنظیمات برنامه وارد کنید؛ این نشانی فعلاً به‌عنوان سرویس زنده تأیید نشده است. هیچ دادهٔ خصوصی یا کلید امضایی به GitHub فرستاده نمی‌شود.
+نشانی پیش‌فرض برنامه: `https://taranehirani73-droid.github.io/elam-digital-library/content/`. این نشانی پس از فعال‌شدن Pages و موفقیت انتشار قابل استفاده است و در تنظیمات قابل تغییر است. تا دریافت کامل نسخهٔ جدید، متن‌ها و تصاویر همراه APK در دسترس‌اند. هیچ دادهٔ خصوصی یا کلید امضایی به GitHub فرستاده نمی‌شود.
 
 ## ساختار
 
