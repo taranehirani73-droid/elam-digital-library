@@ -1,0 +1,41 @@
+name: Validate and publish public content
+on:
+  push:
+    branches: [main]
+    paths: ['content/**', 'editor/**', 'src/**', 'scripts/**', 'tests/**', 'package*.json', 'vite.config.ts', 'tsconfig.json', '.github/workflows/content-pages.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: elam-pages
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run validate
+      - run: npm test
+      - run: npm run build
+      - run: npm run build:editor
+      - run: cp -R build/editor/. build/pages/ && touch build/pages/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build/pages
+  deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment

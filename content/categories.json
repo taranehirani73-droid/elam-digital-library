@@ -1,0 +1,72 @@
+[
+  {
+    "id": "history",
+    "name": "تاريخ عيلام",
+    "parentId": null,
+    "description": "مواد المكتبة المتعلقة بموضوع تاريخ عيلام",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "old",
+    "name": "عيلام القديمة",
+    "parentId": "history",
+    "description": "مواد المكتبة المتعلقة بموضوع عيلام القديمة",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "middle",
+    "name": "عيلام الوسطى",
+    "parentId": "history",
+    "description": "مواد المكتبة المتعلقة بموضوع عيلام الوسطى",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "neo",
+    "name": "عيلام الحديثة",
+    "parentId": "history",
+    "description": "مواد المكتبة المتعلقة بموضوع عيلام الحديثة",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "susa",
+    "name": "مدينة سوسة",
+    "parentId": "history",
+    "description": "مواد المكتبة المتعلقة بموضوع مدينة سوسة",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "archaeology",
+    "name": "الآثار والنقوش",
+    "parentId": null,
+    "description": "مواد المكتبة المتعلقة بموضوع الآثار والنقوش",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "research",
+    "name": "الدراسات والأبحاث",
+    "parentId": null,
+    "description": "مواد المكتبة المتعلقة بموضوع الدراسات والأبحاث",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "books",
+    "name": "الكتب والمراجع",
+    "parentId": null,
+    "description": "مواد المكتبة المتعلقة بموضوع الكتب والمراجع",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "stories",
+    "name": "القصص والروايات",
+    "parentId": null,
+    "description": "مواد المكتبة المتعلقة بموضوع القصص والروايات",
+    "cover": "images/chogha-zanbil.jpg"
+  },
+  {
+    "id": "videos",
+    "name": "الفيديوهات والوثائقيات",
+    "parentId": null,
+    "description": "مواد المكتبة المتعلقة بموضوع الفيديوهات والوثائقيات",
+    "cover": "images/chogha-zanbil.jpg"
+  }
+]

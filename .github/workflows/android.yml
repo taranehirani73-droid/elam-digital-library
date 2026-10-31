@@ -1,0 +1,31 @@
+name: Build Android APK
+on:
+  push:
+    branches: [main]
+    paths: ['src/**', 'android/**', 'index.html', 'package*.json', 'vite.config.ts', 'tsconfig.json', 'capacitor.config.ts', '.github/workflows/android.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: android-actions/setup-android@v3
+      - run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+      - run: npm ci
+      - run: npm test
+      - run: npm run android:sync
+      - run: chmod +x android/gradlew && cd android && ./gradlew assembleDebug
+      - uses: actions/upload-artifact@v4
+        with:
+          name: elam-library-debug-apk
+          path: android/app/build/outputs/apk/debug/app-debug.apk

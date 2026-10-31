@@ -1,0 +1,13 @@
+.build-tools/
+build/
+*.keystore
+*.jks
+local.properties
+.gradle/
+node_modules/
+www/
+public/content/
+android/.gradle/
+android/app/build/
+android/build/
+dist/

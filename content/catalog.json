@@ -1,0 +1,575 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "id": "intro",
+      "slug": "intro",
+      "title": "ما عيلام؟ الاسم والمكان",
+      "summary": "مدخل إلى جغرافيا تاريخية تغيّرت عبر الزمن.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "article",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/intro.md",
+      "sources": [
+        {
+          "title": "ELAM i. The history of Elam",
+          "author": "François Vallat — Encyclopædia Iranica، 1998؛ تحديث 2016",
+          "year": 1998,
+          "url": "https://www.iranicaonline.org/articles/elam-i/",
+          "pages": "301–313"
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "susa",
+      "slug": "susa",
+      "title": "سوسة: مدينة ذات طبقات",
+      "summary": "لماذا تُعد شوش موقعًا أساسيًا لدراسة تاريخ المنطقة؟",
+      "cover": "images/susa-vessel.jpg",
+      "type": "article",
+      "categories": [
+        "history",
+        "susa"
+      ],
+      "tags": [
+        "عيلام",
+        "شوش"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/susa.md",
+      "sources": [
+        {
+          "title": "اليونسكو — سوسة (شوش)",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/en/list/1455",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "The Metropolitan Museum of Art • Rogers Fund, 1948 • 48.98.11",
+      "imageLicense": "Public Domain / CC0",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/323794"
+    },
+    {
+      "id": "zanbil",
+      "slug": "zanbil",
+      "title": "تشوغا زنبيل ودور أونتاش",
+      "summary": "المدينة المقدسة والزقورة في العصر العيلامي الوسيط.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "article",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/zanbil.md",
+      "sources": [
+        {
+          "title": "اليونسكو — تشوغا زنبيل",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/ar/list/113",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "language",
+      "slug": "language",
+      "title": "اللغة العيلامية والكتابة",
+      "summary": "الفرق بين اللغة ونظام الكتابة والشواهد القديمة.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "article",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/language.md",
+      "sources": [
+        {
+          "title": "ELAM v. Elamite language",
+          "author": "Françoise Grillot-Susini — Encyclopædia Iranica، 1998؛ تحديث 2016",
+          "year": 1998,
+          "url": "https://www.iranicaonline.org/articles/elam-v/",
+          "pages": "332–335"
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "document",
+      "slug": "document",
+      "title": "لوح إداري من سوسة — P008242",
+      "summary": "بطاقة موثقة للوح طيني من مجموعة اللوفر.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "reference",
+      "categories": [
+        "research"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/document.md",
+      "sources": [
+        {
+          "title": "MDP 17, 044 — P008242",
+          "author": "Cuneiform Digital Library Initiative (CDLI)",
+          "year": null,
+          "url": "https://cdli.earth/artifacts/8242",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "tablet-lens",
+      "slug": "tablet-lens",
+      "title": "لوح اللوفر–لانس — SB 22212",
+      "summary": "ما الذي تقوله الألواح المبكرة عن المحاسبة؟",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "reference",
+      "categories": [
+        "research"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/tablet-lens.md",
+      "sources": [
+        {
+          "title": "Tablet — SB 22212",
+          "author": "متحف اللوفر–لانس",
+          "year": null,
+          "url": "https://www.louvrelens.fr/en/work/tablet/",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "seals",
+      "slug": "seals",
+      "title": "كيف يعمل الختم الأسطواني؟",
+      "summary": "من ختم الطين إلى دراسة الصور والملكية.",
+      "cover": "images/seal-archer.jpg",
+      "type": "article",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/seals.md",
+      "sources": [
+        {
+          "title": "Cylinder seal: three figures — 43.102.32",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/323992",
+          "pages": ""
+        },
+        {
+          "title": "Cylinder seal: kneeling archer — 43.102.33",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/323993",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "The Metropolitan Museum of Art • Rogers Fund, 1943 • 43.102.33",
+      "imageLicense": "Public Domain / CC0",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/323993"
+    },
+    {
+      "id": "book",
+      "slug": "book",
+      "title": "دليل القراءة في تاريخ عيلام",
+      "summary": "كتيّب عربي داخل التطبيق مع مسار قراءة ومراجع.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "book",
+      "categories": [
+        "books"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "books/book.md",
+      "sources": [
+        {
+          "title": "ELAM i. The history of Elam",
+          "author": "François Vallat — Encyclopædia Iranica، 1998؛ تحديث 2016",
+          "year": 1998,
+          "url": "https://www.iranicaonline.org/articles/elam-i/",
+          "pages": "301–313"
+        },
+        {
+          "title": "اليونسكو — سوسة (شوش)",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/en/list/1455",
+          "pages": ""
+        },
+        {
+          "title": "اليونسكو — تشوغا زنبيل",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/ar/list/113",
+          "pages": ""
+        },
+        {
+          "title": "ELAM v. Elamite language",
+          "author": "Françoise Grillot-Susini — Encyclopædia Iranica، 1998؛ تحديث 2016",
+          "year": 1998,
+          "url": "https://www.iranicaonline.org/articles/elam-v/",
+          "pages": "332–335"
+        },
+        {
+          "title": "MDP 17, 044 — P008242",
+          "author": "Cuneiform Digital Library Initiative (CDLI)",
+          "year": null,
+          "url": "https://cdli.earth/artifacts/8242",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "timeline",
+      "slug": "timeline",
+      "title": "محطات زمنية مختارة",
+      "summary": "مسار مبسّط دون افتراض حدود ثابتة لعيلام.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "article",
+      "categories": [
+        "history"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/timeline.md",
+      "sources": [
+        {
+          "title": "ELAM i. The history of Elam",
+          "author": "François Vallat — Encyclopædia Iranica، 1998؛ تحديث 2016",
+          "year": 1998,
+          "url": "https://www.iranicaonline.org/articles/elam-i/",
+          "pages": "301–313"
+        },
+        {
+          "title": "MDP 17, 044 — P008242",
+          "author": "Cuneiform Digital Library Initiative (CDLI)",
+          "year": null,
+          "url": "https://cdli.earth/artifacts/8242",
+          "pages": ""
+        },
+        {
+          "title": "اليونسكو — تشوغا زنبيل",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/ar/list/113",
+          "pages": ""
+        },
+        {
+          "title": "Vase with a human-headed bull — 43.102.45a–c",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/324005",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "film",
+      "slug": "film",
+      "title": "مدخل إلى الوثائقيات العيلامية",
+      "summary": "بطاقة تمهيدية؛ يمكن إضافة رابط YouTube موثق من المحرر.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "video",
+      "categories": [
+        "videos"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "videos/film.md",
+      "sources": [
+        {
+          "title": "اليونسكو — تشوغا زنبيل",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/ar/list/113",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "photo",
+      "slug": "photo",
+      "title": "تشوغا زنبيل: منظر للموقع",
+      "summary": "صورة حقيقية لبقايا زقورة تشوغا زنبيل، التقطها إيمان ياري عام 2014. يمكن ملاحظة الكتل المتدرجة في أسفل المشهد.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "photo",
+      "categories": [
+        "archaeology"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/photo.md",
+      "sources": [
+        {
+          "title": "اليونسكو — تشوغا زنبيل",
+          "author": "مركز التراث العالمي",
+          "year": null,
+          "url": "https://whc.unesco.org/ar/list/113",
+          "pages": ""
+        },
+        {
+          "title": "Chogha Zanbil Long shot 01.jpg",
+          "author": "Iman Yari، 4 أبريل 2014 — Wikimedia Commons",
+          "year": null,
+          "url": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    },
+    {
+      "id": "photo-vessel",
+      "slug": "photo-vessel",
+      "title": "وعاء مزخرف من سوسة",
+      "summary": "وعاء خزفي من سوسة، يؤرخه المتحف إلى أواخر الألف الثالث قبل الميلاد ويصنفه ضمن العصر العيلامي القديم. تزخرفه خطوط ودوائر وطيور.",
+      "cover": "images/susa-vessel.jpg",
+      "type": "photo",
+      "categories": [
+        "archaeology"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/photo-vessel.md",
+      "sources": [
+        {
+          "title": "Vessel — 48.98.11",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/323794",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "The Metropolitan Museum of Art • Rogers Fund, 1948 • 48.98.11",
+      "imageLicense": "Public Domain / CC0",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/323794"
+    },
+    {
+      "id": "photo-bull",
+      "slug": "photo-bull",
+      "title": "إناء برأس ثور بشري",
+      "summary": "إناء من الفريت، مصنّف عيلاميًا حديثًا، يعود تقريبًا إلى القرنين الثامن والسابع قبل الميلاد. عُثر عليه في سرخ دم بلورستان، وليس في سوسة.",
+      "cover": "images/bull-vase.jpg",
+      "type": "photo",
+      "categories": [
+        "archaeology"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/photo-bull.md",
+      "sources": [
+        {
+          "title": "Vase with a human-headed bull — 43.102.45a–c",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/324005",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "The Metropolitan Museum of Art • Rogers Fund, 1943 • 43.102.45a–c",
+      "imageLicense": "Public Domain / CC0",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/324005"
+    },
+    {
+      "id": "photo-figures",
+      "slug": "photo-figures",
+      "title": "طبعة ختم: ثلاثة أشخاص",
+      "summary": "تُظهر الصورة طبعة حديثة تكشف تصميم ختم أسطواني قديم من الحجر الصابوني. تحمل الطبعة ثلاثة أشخاص مبسّطين وعلامتين متصالبتين.",
+      "cover": "images/seal-figures.jpg",
+      "type": "photo",
+      "categories": [
+        "archaeology"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/photo-figures.md",
+      "sources": [
+        {
+          "title": "Cylinder seal: three figures — 43.102.32",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/323992",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "The Metropolitan Museum of Art • Rogers Fund, 1943 • 43.102.32",
+      "imageLicense": "Public Domain / CC0",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/323992"
+    },
+    {
+      "id": "photo-archer",
+      "slug": "photo-archer",
+      "title": "طبعة ختم: رامٍ ووعلان",
+      "summary": "طبعة حديثة لختم عيلامي قديم من مادة قيرية، تُظهر راميًا جاثيًا ووعلين حول عنصر يُفسَّر على الأرجح بوصفه شجرة. يظهر أيضًا طائر وعلامة شعاعية.",
+      "cover": "images/seal-archer.jpg",
+      "type": "photo",
+      "categories": [
+        "archaeology"
+      ],
+      "tags": [
+        "عيلام"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "articles/photo-archer.md",
+      "sources": [
+        {
+          "title": "Cylinder seal: kneeling archer — 43.102.33",
+          "author": "The Metropolitan Museum of Art",
+          "year": null,
+          "url": "https://www.metmuseum.org/art/collection/search/323993",
+          "pages": ""
+        }
+      ],
+      "evidence": "موثّق",
+      "status": "published",
+      "imageCredit": "The Metropolitan Museum of Art • Rogers Fund, 1943 • 43.102.33",
+      "imageLicense": "Public Domain / CC0",
+      "imageSource": "https://www.metmuseum.org/art/collection/search/323993"
+    },
+    {
+      "id": "story-clay",
+      "slug": "story-clay",
+      "title": "صوت الطين — مشهد أدبي متخيّل",
+      "summary": "قصة تعليمية خيالية؛ الشخصيات والأحداث متخيلة وليست شاهدًا تاريخيًا.",
+      "cover": "images/chogha-zanbil.jpg",
+      "type": "story",
+      "categories": [
+        "stories"
+      ],
+      "tags": [
+        "أدب",
+        "خيال"
+      ],
+      "author": "هيئة تحرير مكتبة عيلام",
+      "publishedAt": "2026-10-31",
+      "updatedAt": "2026-10-31",
+      "body": "stories/story-clay.md",
+      "sources": [],
+      "evidence": "رواية أدبية",
+      "status": "published",
+      "imageCredit": "Iman Yari • 2014",
+      "imageLicense": "CC BY-SA 4.0",
+      "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">مكتبة عيلام</string>
+    <string name="title_activity_main">مكتبة عيلام</string>
+    <string name="package_name">org.elam.library</string>
+    <string name="custom_url_scheme">org.elam.library</string>
+</resources>

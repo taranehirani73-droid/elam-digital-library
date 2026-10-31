@@ -1,0 +1,32 @@
+{
+  "id": "new-article",
+  "slug": "new-article",
+  "title": "عنوان جديد",
+  "summary": "ملخص المادة",
+  "cover": "images/chogha-zanbil.jpg",
+  "type": "article",
+  "categories": [
+    "history"
+  ],
+  "tags": [
+    "عيلام"
+  ],
+  "author": "هيئة تحرير مكتبة عيلام",
+  "publishedAt": "2026-10-31",
+  "updatedAt": "2026-10-31",
+  "body": "articles/new-article.md",
+  "sources": [
+    {
+      "title": "ELAM i. The history of Elam",
+      "author": "François Vallat — Encyclopædia Iranica، 1998؛ تحديث 2016",
+      "year": 1998,
+      "url": "https://www.iranicaonline.org/articles/elam-i/",
+      "pages": "301–313"
+    }
+  ],
+  "evidence": "موثّق",
+  "status": "draft",
+  "imageCredit": "Iman Yari, 2014",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageSource": "https://commons.wikimedia.org/wiki/File:Chogha_Zanbil_Long_shot_01.jpg"
+}
